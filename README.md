@@ -3,4 +3,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developer
 
-# To see the output [CLICK HERE](https://github-readme-stats.vercel.app/api/pin/?username=Shobhit0311&repo=Module5)
+# To see the output [CLICK HERE](https://shobhit0311.github.io/Module5/)
