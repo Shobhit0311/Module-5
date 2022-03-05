@@ -1,4 +1,6 @@
-Module-5 Coding Assignment
+
+# Module-5 Coding Assignment
+
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-To see the output [CLICK HERE](https://shobhit0311.github.io/module-5/?username=Shobhit0311&repo=module5-)
+# To see the output [CLICK HERE](https://Shobhit0311.github.io/module-5/index.html)
